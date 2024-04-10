@@ -2,4 +2,7 @@
 
 ## This code looks at the following diabetes data
 
-| New| Old
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
